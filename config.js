@@ -31,31 +31,31 @@ global.sig = 'https://instagram.com/firdastiillearning'
 global.syt = 'https://www.youtube.com/@akira1981'
 global.sgh = 'gada'
 global.sgc = 'https://chat.whatsapp.com/D0qBc2yeQnpKIMDZgWs2PC'
-global.swa = 'wa.me/6285717376113'
+global.swa = 'wa.me/62882006212045'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '088289826392'
-global.povo = '-'
+global.pdana = '0882006212045'
+global.povo = '0882006212045'
 global.pgopay = '-'
-global.ppulsa = '0881023635869'
-global.ppulsa2 = '085717376113'
+global.ppulsa = '0882006212045'
+global.ppulsa2 = '0882006212045'
 global.psaweria = 'saweria.co/RiellXD'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285717376113'
-global.nomorown = '6285717376113'
-global.namebot = 'RyanBotzz'
-global.nameown = 'RyanMods'
+global.nomorbot = '62895386209243'
+global.nomorown = '62882006212045'
+global.namebot = 'KhaBotz'
+global.nameown = './Khaa-Exploit'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285717376113'],
-  ['6285717376113'],
-  ['6285717376113'],
-  ['6285717376113', 'RyanMods🔥︎︎', true]
+  ['16627576060'],
+  ['18599551682'],
+  ['18599551682'],
+  ['18599551682', './Khaa-Exploit', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,16 +105,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = '𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐑𝐲𝐚𝐧𝐌𝐨𝐝𝐬🔥' //Main Watermark
-global.wm2 = '𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐑𝐲𝐚𝐧𝐌𝐨𝐝𝐬'
-global.wm3 = '𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐑𝐲𝐚𝐧𝐌𝐨𝐝𝐬'
+global.wm = 'KhaTheInvisble🔥' //Main Watermark
+global.wm2 = 'KhaXd'
+global.wm3 = 'KhaBotz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `𝐑𝐲𝐚𝐧𝐌𝐨𝐝𝐬 | ʙʏ ${global.nameown}`
-global.author = '𝐑𝐲𝐚𝐧𝐌𝐨𝐝𝐬' 
+global.titlebot = `KhaBotz | ʙʏ ${global.nameown}`
+global.author = 'ItsMeRaka' 
 global.packname = '2017'
-global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = '28 maret 2004'
+global.danied = 'CJX-404'
+global.ultahowner = '12 September 2008'
 
 
 /*============== LOGO ==============*/
